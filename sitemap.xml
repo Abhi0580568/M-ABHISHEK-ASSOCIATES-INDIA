@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  M. Abhishek & Associates — sitemap
+  Replace REPLACE-WITH-YOUR-DOMAIN.in with your registered domain before upload.
+  The site is a single page with in-page routing, so the hash routes below are
+  listed for completeness; Google indexes the main URL and follows the content.
+  Update <lastmod> whenever you publish a materially changed version.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.REPLACE-WITH-YOUR-DOMAIN.in/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
